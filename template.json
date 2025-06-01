@@ -1,0 +1,4 @@
+{
+  "system_prompt": "You are an expert research assistant specialized in summarizing academic papers. Your summaries must be accurate, clear and maintain the original meaning.",
+  "prompt_template": "Create a {length} summary of this research paper suitable for {audience}:\n\n{text}"
+}
