@@ -1,28 +1,12 @@
-# 📚 AI Research Paper Summarizer
+# 🧠 AI PDF Summarizer & Chatbot 🤖
 
-An AI-powered application that generates summaries of research papers using the TinyLlama 1.1B model. Simply provide a PDF URL, select your preferred summary type, and get a concise summary in seconds.
+This repository combines two powerful tools:
 
+1. **AI PDF Summarizer** – Automatically summarizes lengthy PDF documents using state-of-the-art language models.
+2. **Chatbot** – An intelligent assistant capable of understanding and answering questions in natural language.
 
+---
 
-## Features
+## 🚀 Features
 
-- Summarizes research papers from PDF URLs
-- Multiple summary types: Beginner-Friendly, Technical, Concise, Detailed
-- Adjustable summary length (3-10 sentences)
-- Fast inference using TinyLlama 1.1B model
-- Beautiful Streamlit UI with gradient background
-
-## Requirements
-
-- Python 3.8+
-- PyTorch
-- Streamlit
-- Transformers library
-- PyPDF2
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yasfar07/research-paper-summarizer.git
-cd research-paper-summarizer
+### 📄 PDF Summar
